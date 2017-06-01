@@ -1,0 +1,25 @@
+{
+  "name": "headless-wp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "6.24.1",
+    "babel-loader": "7.0.0",
+    "babel-preset-es2015": "6.24.1",
+    "babel-preset-react": "6.24.1",
+    "webpack": "2.6.0",
+    "webpack-dev-server": "^2.4.5"
+  },
+  "dependencies": {
+    "react": "15.5.4",
+    "react-dom": "15.5.4",
+    "react-router-dom": "^4.1.1"
+  }
+}
